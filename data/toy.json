@@ -1,0 +1,243 @@
+[
+    {
+        "_id": "fDz7c9",
+        "name": "Fantastic Game",
+        "price": 13,
+        "labels": [
+            "Unique",
+            "Durable",
+            "Colorful"
+        ],
+        "createdAt": 1692488444738.4956,
+        "inStock": true
+    },
+    {
+        "_id": "GDnxGR",
+        "name": "Super Ball",
+        "price": 12,
+        "labels": [
+            "Creative",
+            "Imaginative"
+        ],
+        "createdAt": 1440871590988.0227,
+        "inStock": true
+    },
+    {
+        "_id": "E4Sejc",
+        "name": "Crazy Car",
+        "price": 85,
+        "labels": [
+            "Creative",
+            "Safe"
+        ],
+        "createdAt": 1534232227141.0754,
+        "inStock": true
+    },
+    {
+        "_id": "hjvb07",
+        "name": "Adventure Robot",
+        "price": 89,
+        "labels": [
+            "Imaginative",
+            "Interactive"
+        ],
+        "createdAt": 1423131448764.8298,
+        "inStock": true
+    },
+    {
+        "_id": "GH71Nf",
+        "name": "Adventure Doll",
+        "price": 70,
+        "labels": [
+            "Educational",
+            "Interactive",
+            "Engaging",
+            "Imaginative"
+        ],
+        "createdAt": 1541077425358.2764,
+        "inStock": false
+    },
+    {
+        "_id": "dIsg1Z",
+        "name": "Magic Game",
+        "price": 83,
+        "labels": [
+            "Imaginative",
+            "Fun"
+        ],
+        "createdAt": 1614300509680.2126,
+        "inStock": true
+    },
+    {
+        "_id": "PFXEX5",
+        "name": "Magic Doll",
+        "price": 30,
+        "labels": [
+            "Imaginative",
+            "Interactive",
+            "Durable",
+            "Unique"
+        ],
+        "createdAt": 1607828144699.365,
+        "inStock": true
+    },
+    {
+        "_id": "Zsckck",
+        "name": "Adventure Animal",
+        "price": 69,
+        "labels": [
+            "Creative",
+            "Safe",
+            "Safe"
+        ],
+        "createdAt": 1700379773473.8953,
+        "inStock": true
+    },
+    {
+        "_id": "Pv7tYn",
+        "name": "Magic Game",
+        "price": 45,
+        "labels": [
+            "Interactive",
+            "Interactive",
+            "Colorful",
+            "Imaginative"
+        ],
+        "createdAt": 1534228721800.5698,
+        "inStock": false
+    },
+    {
+        "_id": "7V2RNi",
+        "name": "Super Doll",
+        "price": 53,
+        "labels": [
+            "Unique",
+            "Engaging",
+            "Engaging"
+        ],
+        "createdAt": 1592522649833.772,
+        "inStock": true
+    },
+    {
+        "_id": "OeLkuJ",
+        "name": "Fantastic Game",
+        "price": 10,
+        "labels": [
+            "Fun",
+            "Fun",
+            "Educational",
+            "Fun"
+        ],
+        "createdAt": 1551850033547.8176,
+        "inStock": true
+    },
+    {
+        "_id": "bJ74bO",
+        "name": "Fun Game",
+        "price": 90,
+        "labels": [
+            "Colorful",
+            "Interactive"
+        ],
+        "createdAt": 1678887421367.1294,
+        "inStock": true
+    },
+    {
+        "_id": "DhBwpO",
+        "name": "Fantastic Train",
+        "price": 94,
+        "labels": [
+            "Colorful",
+            "Safe",
+            "Creative"
+        ],
+        "createdAt": 1408027479626.587,
+        "inStock": true
+    },
+    {
+        "_id": "MtWywQ",
+        "name": "Super Car",
+        "price": 71,
+        "labels": [
+            "Creative",
+            "Interactive"
+        ],
+        "createdAt": 1447987491446.238,
+        "inStock": true
+    },
+    {
+        "_id": "0jXGVz",
+        "name": "Fun Block",
+        "price": 49,
+        "labels": [
+            "Unique",
+            "Unique",
+            "Imaginative"
+        ],
+        "createdAt": 1688873777831.1807,
+        "inStock": false
+    },
+    {
+        "_id": "3qewv7",
+        "name": "Crazy Game",
+        "price": 28,
+        "labels": [
+            "Educational",
+            "Imaginative",
+            "Durable",
+            "Imaginative"
+        ],
+        "createdAt": 1570175581952.5493,
+        "inStock": false
+    },
+    {
+        "_id": "oR6TXq",
+        "name": "Magic Train",
+        "price": 43,
+        "labels": [
+            "Educational",
+            "Engaging",
+            "Engaging"
+        ],
+        "createdAt": 1410902377095.6123,
+        "inStock": false
+    },
+    {
+        "_id": "PgWTBM",
+        "name": "Fantastic Robot",
+        "price": 39,
+        "labels": [
+            "Safe",
+            "Engaging",
+            "Safe",
+            "Fun"
+        ],
+        "createdAt": 1630276061146.088,
+        "inStock": true
+    },
+    {
+        "_id": "Y4lRjD",
+        "name": "Cool Train",
+        "price": 99,
+        "labels": [
+            "Educational",
+            "Colorful",
+            "Durable"
+        ],
+        "createdAt": 1566300719877.5527,
+        "inStock": false
+    },
+    {
+        "_id": "bECRNi",
+        "name": "Super Doll",
+        "price": 94,
+        "labels": [
+            "Safe",
+            "Unique",
+            "Imaginative",
+            "Imaginative"
+        ],
+        "createdAt": 1587952520685.0803,
+        "inStock": true
+    }
+]
